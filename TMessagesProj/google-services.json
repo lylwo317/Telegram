@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606683371967",
+    "firebase_url": "https://axial-copilot-803.firebaseio.com",
+    "project_id": "axial-copilot-803",
+    "storage_bucket": "axial-copilot-803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606683371967:android:16a2a8c1aedb6d52",
+        "android_client_info": {
+          "package_name": "org.kevinMessage.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606683371967-r93okp1n408n5hu8348j4lfkuq8nu62r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBolUZTGBnTexNf55GbdTW9-eFhuMmsXuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -6,5 +6,11 @@ obj/
 local.properties
 *.keystore
 gradle.properties
-
-TMessagesProj/src/main/java/org/telegram/messenger/BuildVars.java
+/.gradletasknamecache
+/freeline_project_description.json
+/freeline.py
+/freeline/
+/TMessagesProj/gradle/
+/TMessagesProj/gradlew
+/TMessagesProj/gradlew.bat
+/TMessagesProj/.externalNativeBuild/

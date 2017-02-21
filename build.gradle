@@ -5,6 +5,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
+        classpath 'com.antfortune.freeline:gradle:0.8.5'
         classpath 'com.android.tools.build:gradle:2.2.1'
         classpath 'com.google.gms:google-services:3.0.0'
     }
